@@ -1,9 +1,9 @@
 "Key"="value"
 "common.Environment"="Dev"
 "common.DateTimePattern"="yyyy-MM-dd'T'HH:mm:ss.SSS"
-"supabase.host"="aws-0-us-west-1.pooler.supabase.com"
-"supabase.post"="6543"
+"supabase.host"="aws-0-us-west-1.pooler.supabase.dev.com"
+"supabase.post"="6544"
 "supabase.generationType"="GenerateZoomToken"
-"supabase.dabase"="postgres"
-"supabase.user=postgres.zvxrjzoxyjvambtgcmdi
+"supabase.dabase"="postgres_dev"
+"supabase.user=postgres.zvxrjzoxyjvambtgcmdi.dev
 supabase.password"="Q2xvdWRXZWJtZXRob2RzMzMxMSM="
