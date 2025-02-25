@@ -1,0 +1,8 @@
+{
+  "name": "refData",
+  "description": "",
+  "columnDelimiter": "=",
+  "releaseCharacter": "\"",
+  "encodingType": "UTF-8",
+  "version": "2.1.0"
+}
